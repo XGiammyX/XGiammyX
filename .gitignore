@@ -1,0 +1,9 @@
+# Private / local-only files — never publish
+PROFILE-SETUP-TODO.md
+GitHub_Profile_Setup.md
+github-profile-setup.md
+profile-todo.md
+TODO_PRIVATE.md
+.claude/
+.env
+.env.*
